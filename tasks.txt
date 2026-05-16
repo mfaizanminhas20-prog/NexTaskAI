@@ -1,0 +1,11 @@
+cricket|Personal|1|0|30|15|5|2026
+gaming|Personal|1|0|0|15|5|2026
+social media |Personal|0|0|0|15|5|2026
+Add task cricket|VoiceAI|1|0|80|15|5|2026
+Add task playing|VoiceAI|1|0|70|15|5|2026
+Play tennis at task play tennis|VoiceAI|1|0|0|15|5|2026
+dsa project|Work|2|0|50|17|5|2026
+5 prayers |Personal|2|1|100|15|5|2026
+Drinking 8th class of|VoiceAI|1|1|100|15|5|2026
+AI Lab final |Work|2|1|100|17|5|2026
+Information security project |Work|1|1|100|18|5|2026

@@ -1,0 +1,7 @@
+asr prayer|Personal|2|0|0|16|5|2026
+esha|Personal|2|0|0|16|5|2026
+gym|Personal|1|0|0|16|5|2026
+magrib|Personal|2|0|0|16|5|2026
+zuhr prayer|Personal|2|0|0|16|5|2026
+fajr parayer|Personal|2|1|100|16|5|2026
+morning walk|Personal|1|1|100|16|5|2026
